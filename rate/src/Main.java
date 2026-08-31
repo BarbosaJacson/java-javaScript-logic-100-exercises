@@ -27,8 +27,10 @@ public class Main {
             System.out.println("Classificação A.");
         } else if (pI && pII && pIV && !pIII && !pV) {
             System.out.println("Classificação B.");
-        } else {
+        } else if (pI && pII && (pIII || pIV) && !pV) {
             System.out.println("Classificação C.");
+        } else {
+            System.out.println("Reprovado.");
         }
         scanner.close();
     }
