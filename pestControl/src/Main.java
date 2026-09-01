@@ -27,7 +27,6 @@ public class Main {
         };
         custoBruto = acres * precoPorAcre;
 
-
         if (acres > 1000) {
             custoBruto = custoBruto * 0.95;
         }
