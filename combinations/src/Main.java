@@ -21,10 +21,10 @@ public class Main {
         int dadoA = 0;
         int dadoB = 0;
 
-        for (int i = 1; i <= 6; i++) {
+        for (int i = 2; i <= 6; i++) {
             dadoA = i;
             dadoB = numero - (i);
-            if ((dadoA >= 1 && dadoA < 7) && (dadoB >= 1 && dadoB < 7)) {
+            if ((dadoA >= 1 && dadoA <=6) && (dadoB >= 1 && dadoB <=6)) {
                 System.out.printf("%d %d%n", dadoA, dadoB);
             }
         }
