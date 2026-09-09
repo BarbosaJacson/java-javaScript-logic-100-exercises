@@ -16,7 +16,6 @@ async function main() {
             ehPrimo = false;
             break;
         }
-
     }
 
     if (ehPrimo) {
@@ -24,6 +23,6 @@ async function main() {
     } else {
         console.log(`O número não é primo.`)
     }
-rl.close();
+    rl.close();
 }
 main();
