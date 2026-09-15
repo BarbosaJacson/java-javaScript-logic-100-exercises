@@ -10,7 +10,6 @@ async function main() {
         if (vetor[i] % 2 == 0) {
             contador++;
         }
-
     }
     console.log(`${contador}`);
     rl.close();
