@@ -16,6 +16,7 @@ public class Main {
         int resultado = contarVogaisStream(palavra);
 
     }
+
     public static int contarVogaisStream(String palavra) {
         if (palavra == null || palavra.isBlank()) {
             return 0;
