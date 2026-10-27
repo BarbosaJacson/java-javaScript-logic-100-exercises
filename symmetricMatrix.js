@@ -23,7 +23,7 @@ async function main() {
 
     for (let i = 0; i < 5; i++) {
         for (let j = 0; j < 5; j++) {
-            matriz[i][j] += parseInt(await rl.question("Digite um número inteiro: ")), 10 || 0;
+            matriz[i][j] += parseInt(await rl.question("Digite um número inteiro: "), 10) || 0;
 
         }
 
