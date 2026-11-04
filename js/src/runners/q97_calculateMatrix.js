@@ -1,4 +1,4 @@
-import { MatrizService } from '../services/q97_calculateMatrixService.js';
+import { MatrizService } from '../services/q97_calculateMatrixService';
 
 function main() {
     const x = 1;
