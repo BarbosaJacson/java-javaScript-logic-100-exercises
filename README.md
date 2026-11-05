@@ -6,7 +6,7 @@
 
 ## 📌 Sobre o Projeto
 
-Este repositório foi iniciado em **15 de agosto de 2025** com o objetivo principal de praticar, consolidar e aperfeiçoar os conceitos fundamentais de lógica de programação, algoritmos e estruturas de dados. 
+Este repositório foi iniciado em **15 de agosto de 2026 e finalizado em 05 de novembro de 2026** com o objetivo principal de praticar, consolidar e aperfeiçoar os conceitos fundamentais de lógica de programação, algoritmos e estruturas de dados. 
 
 Ao longo da jornada, a resolução da lista com **100 exercícios graduais** (abrangendo desde operações aritméticas simples até matrizes multidimensionais e validações de permutações complexas) foi implementada em duas linguagens modernas: **Java 21+** e **JavaScript (ES6+)**.
 
