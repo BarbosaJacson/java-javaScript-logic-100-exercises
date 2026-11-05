@@ -21,6 +21,15 @@ bin/
 /dist/
 /nbdist/
 /.nb-gradle/
+# IDE settings
+.idea/
+*.iml
+
+# Build outputs
+target/
+build/
+dist/
+node_modules/
 
 ### VS Code ###
 .vscode/
