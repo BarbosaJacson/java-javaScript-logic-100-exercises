@@ -36,3 +36,7 @@ listaExercicioIfbaV5/
     └── src/
         ├── services/             # Classes de serviços modulares
         └── runners/              # Executáveis com readline interativo
+## 📄 Documentação dos Exercícios
+
+O PDF original com o enunciado dos 100 exercícios propostos pelo IFBA está disponível em:
+- 📥 [Lista de Exercícios IFBA (PDF)](./docs/ListaProgramacaoV5.pdf)
